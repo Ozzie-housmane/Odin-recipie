@@ -1,0 +1,40 @@
+ul li {
+    padding-bottom: 20px;
+    list-style: none;
+}
+.frtImg {
+ padding-bottom: 10px;
+max-width: 50%;
+ border: 2px solid red; 
+ height: auto;
+ display: block;
+ 
+
+}
+ul li a{
+    color: brown;
+    text-decoration: none;
+    font-weight: 900;
+    background-color: whitesmoke;
+    width: fit-content;
+    border-radius: 30px;
+    border: 1px solid red ;
+    list-style: none;
+}
+ 
+.title {
+    
+    font-weight: bold;
+    color: red ;
+    font-family: fantasy;
+    text-align: center;
+}
+body {
+    background-color: black;
+    color: whitesmoke;
+
+}
+P {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}

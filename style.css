@@ -1,16 +1,18 @@
 ul li {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
+    padding-top: 20px;
     list-style: none;
 }
 .frtImg {
- padding-bottom: 10px;
+ padding-bottom: 1px;
 max-width: 50%;
  border: 2px solid red; 
  height: auto;
  display: block;
- 
+ border-radius: 20px;
 
 }
+
 ul li a{
     color: brown;
     text-decoration: none;
@@ -20,8 +22,12 @@ ul li a{
     border-radius: 30px;
     border: 1px solid red ;
     list-style: none;
+    text-size-adjust: 60%;
 }
- 
+ul li a:hover {
+    color: black;
+    background-color: red;
+} 
 .title {
     
     font-weight: bold;
@@ -30,7 +36,7 @@ ul li a{
     text-align: center;
 }
 body {
-    background-color: black;
+    background-color: #3a3232;
     color: whitesmoke;
 
 }
@@ -38,3 +44,4 @@ P {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
+

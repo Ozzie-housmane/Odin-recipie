@@ -44,4 +44,63 @@ P {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
-
+nav a {
+    color: whitesmoke;
+    text-decoration: none;
+    border: 2px solid brown;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+.turkeyTitle {
+    color: red;
+    font-family: fantasy, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+}
+nav a:hover{
+    color: black;
+    background-color: brown;
+}
+.turkeyP{
+    text-align: left;
+    margin-left: 25px;
+    text-decoration: none;
+    color: whitesmoke:
+}
+.turkhtmlimg{
+    padding-bottom: 1px;
+max-width: 50%;
+ border: 3px solid brown; 
+ height: auto;
+ display: block;
+ border-radius: 20px;
+ margin-left: 40px;
+}
+.turktable{
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+    width: 50%;
+    margin-left: 45px;
+    margin-top: 25px;
+    font-family: cursive;
+    font-size: 120%;
+    
+}
+td{
+    text-align: center;
+}
+th{
+    font-weight: bolder;
+    color: brown;
+}
+ .turklist{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.tip {
+    text-align: center;
+}
+ol li {
+    padding-bottom: 10px;
+    padding-top: 20px;
+    
+}

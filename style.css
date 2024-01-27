@@ -64,7 +64,7 @@ nav a:hover{
     text-align: left;
     margin-left: 25px;
     text-decoration: none;
-    color: whitesmoke:
+    color: whitesmoke;
 }
 .turkhtmlimg{
     padding-bottom: 1px;
@@ -78,12 +78,12 @@ max-width: 50%;
 .turktable{
     border: 1px solid whitesmoke;
     color: whitesmoke;
-    width: 50%;
+    width: 90%;
     margin-left: 45px;
     margin-top: 25px;
     font-family: cursive;
-    font-size: 120%;
-    
+    font-size: 110%;
+    border-radius: 10px;
 }
 td{
     text-align: center;
@@ -101,6 +101,9 @@ th{
 }
 ol li {
     padding-bottom: 10px;
-    padding-top: 20px;
-    
+    padding-top: 20px; 
+}
+.yakprod{
+    list-style: none;
+    color: white;
 }

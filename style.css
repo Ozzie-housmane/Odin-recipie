@@ -1,15 +1,16 @@
  .indexList {
-    padding-bottom: 10px;
-    padding-top: 20px;
+    padding-bottom: 05px;
+    padding-top: 40px;
     list-style: none;
 }
 .frtImg {
  padding-bottom: 1px;
-max-width: 50%;
+max-width: 70%;
  border: 2px solid red; 
  height: auto;
  display: block;
  border-radius: 20px;
+ 
 
 }
 
@@ -106,4 +107,10 @@ ol li {
 .yakprod{
     list-style: none;
     color: white;
+}
+.link{
+   display:inline-block;
+    height: max-content;
+    padding: 5px;
+    
 }
